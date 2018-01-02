@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace AISFileCatelog
+namespace FileCatelog
 {
     partial class DownloadClient
     {

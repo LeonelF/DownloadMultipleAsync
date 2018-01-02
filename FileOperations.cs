@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AISFileCatelog
+namespace FileCatelog
 {
     partial class FileOperations
     {

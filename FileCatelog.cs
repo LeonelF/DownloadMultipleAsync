@@ -11,7 +11,7 @@ using AisUriProviderApi;
 using System.Threading;
 using System.IO;
 
-namespace AISFileCatelog
+namespace FileCatelog
 {
     public partial class FileCatelog : Form
     {
